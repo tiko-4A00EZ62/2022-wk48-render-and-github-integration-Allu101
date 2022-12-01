@@ -4,7 +4,8 @@
   "description": "API Testing and Validation",
   "main": "index.js",
   "scripts": {
-    "test": "jest --forceExit"
+    "test": "jest --forceExit",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
